@@ -6,7 +6,7 @@
 
 ## 2. Отбор информативных признаков
 
-- Полный перебор признаков
+- <a href = "https://colab.research.google.com/drive/10HkC4GbrqOr6RdlPMGhq57HRm92B9xXp?usp=sharing">Полный перебор признаков</a>
 - Генетический алгоритм
 - Сравнение алгоритмов
 
