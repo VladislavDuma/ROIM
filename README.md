@@ -12,3 +12,5 @@
 - <a href = "https://colab.research.google.com/drive/13Gkhbz-f3-EpvALFzyDH4KQBHI7xQZHc?usp=sharing">Сравнение алгоритмов</a>
 
 ## 3. Глубокое обучение
+
+- <a href = "https://colab.research.google.com/drive/16KkMsolkrXnA0JWvi7ifGwuFhmrMAkU2?usp=sharing">PyTorch</a>
