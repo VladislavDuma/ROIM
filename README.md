@@ -13,5 +13,6 @@
 
 ## 3. Глубокое обучение
 
-- <a href = "https://colab.research.google.com/drive/16KkMsolkrXnA0JWvi7ifGwuFhmrMAkU2?usp=sharing">PyTorch (MNIST)</a>
+- <a href = "https://colab.research.google.com/drive/16KkMsolkrXnA0JWvi7ifGwuFhmrMAkU2?usp=sharing">PyTorch</a>
 - <a href = "https://colab.research.google.com/drive/1sbijRUKDJLf0wuBkrQFeDxTK11f96-MP?usp=sharing">LSA</a>
+- <a href = "https://colab.research.google.com/drive/1cfCGqywhKghCn1jWV9kCJo2x323Lnbz3?usp=sharing">CNN</a>
